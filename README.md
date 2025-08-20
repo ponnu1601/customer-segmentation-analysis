@@ -1,5 +1,4 @@
 # customer-segmentation-analysis
-Customer segmentation analysis using RFM methodology
 
 ## **Overview**  
 Customer segmentation analysis using RFM (Recency, Frequency, Monetary) methodology to identify distinct customer groups and develop targeted marketing strategies for a UK-based online retailer.
