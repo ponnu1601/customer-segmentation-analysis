@@ -105,10 +105,10 @@ Run all cells sequentially. The notebook is structured as: data loading → clea
 
 | Segment | Count | % of Base | Avg Recency | Avg Frequency | Avg Monetary |
 |---------|-------|-----------|-------------|---------------|--------------|
-| **VIP Customers** | 11 | 0.3% | ~10 days | 150+ orders | £100,000+ |
-| **High-Value** | 193 | 4.5% | ~25 days | 50+ orders | £30,000+ |
-| **Regular** | 3,059 | 70.9% | ~60 days | 10 orders | £2,000 |
-| **At-Risk/Lost** | 1,054 | 24.4% | 250+ days | 8 orders | £1,500 |
+| **VIP Customers** | 11 | 0.3% | 5 days | 109.7 transactions | £124,150.43 |
+| **High-Value** | 193 | 4.5% | 11 days | 28.6 transactions | £12,190.96 |
+| **Regular** | 3,059 | 70.9% | 42 days | 4.4 transactions | £1,326.62 |
+| **At-Risk/Lost** | 1,054 | 24.4% | 246 days | 1.9 transactions | £488.70 |
 
 ### Key Insights
 
