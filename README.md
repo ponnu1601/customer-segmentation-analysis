@@ -112,7 +112,7 @@ Run all cells sequentially. The notebook is structured as: data loading → clea
 
 ### Key Insights
 
-- **VIP customers (0.3%) drive disproportionate revenue, generating £1,365,654.76 (16.5% of total revenue)
+- **VIP customers (0.3%) drive disproportionate revenue**, generating £1,365,654.76 (16.5% of total revenue)
 - **70.9% of customers are Regular buyers** with moderate engagement — significant growth opportunity through upselling
 - **24.4% of customers are At-Risk** having not purchased in 8+ months — urgent reactivation needed
 - **Clear upgrade path exists** from Regular → High-Value → VIP segments based on behavior patterns
