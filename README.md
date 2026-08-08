@@ -112,7 +112,7 @@ Run all cells sequentially. The notebook is structured as: data loading → clea
 
 ### Key Insights
 
-- **VIP customers (0.3%) likely drive disproportionate revenue** with spending exceeding £100,000 per customer
+- **VIP customers (0.3%) drive disproportionate revenue, generating £1,365,654.76 (16.5% of total revenue)
 - **70.9% of customers are Regular buyers** with moderate engagement — significant growth opportunity through upselling
 - **24.4% of customers are At-Risk** having not purchased in 8+ months — urgent reactivation needed
 - **Clear upgrade path exists** from Regular → High-Value → VIP segments based on behavior patterns
@@ -130,13 +130,13 @@ VIP customers demonstrate extreme purchase frequency (50-250+ transactions) comb
 ![RFM Clusters - Frequency vs Monetary](images/rfm_frequency_monetary.png)
 
 **3. Customer Distribution by Segment**
-Regular customers dominate the customer base at 71%, while VIP and High-Value segments combined represent only 4.8% but likely drive majority revenue.
+Regular customers dominate the customer base at 71%, while VIP and High-Value segments combined represent only 4.8% but generate nearly half of total revenue (44.9%).
 
 ![Customer Distribution](images/segment_distribution.png)
 
 ### Business Interpretation
 
-The analysis reveals a classic power-law distribution where a small percentage of customers (VIP + High-Value = 4.8%) likely generate the majority of revenue. The large Regular customer base (71%) presents a significant growth opportunity through targeted engagement campaigns to increase purchase frequency and order value.
+The analysis reveals a classic power-law distribution where a small percentage of customers (VIP + High-Value = 4.8%) generate nearly half of total revenue (44.9%). The large Regular customer base (71%) presents a significant growth opportunity through targeted engagement campaigns to increase purchase frequency and order value.
 
 The 24% At-Risk customer segment represents both a challenge and opportunity — these customers have demonstrated purchase intent but require reactivation campaigns before they churn permanently.
 
