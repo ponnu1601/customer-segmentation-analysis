@@ -35,7 +35,7 @@ This project performs customer segmentation analysis on online retail transactio
 | Source | [Kaggle - Online Retail Customer Clustering](https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering) |
 | Time Period | December 2010 - December 2011 |
 | Size | 541,909 transactions |
-| Customers | 4,372 unique customers (after cleaning) |
+| Customers | 4,312 unique customers (after cleaning) |
 | Features | InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country |
 | Business Type | UK-based online retail specializing in unique all-occasion gifts |
 
